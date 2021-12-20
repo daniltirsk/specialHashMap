@@ -1,5 +1,6 @@
 import pytest
-from SpecialHashMap import SpecialHashMap, _iLocError, _iLocIndexer
+from SpecialHashMap import SpecialHashMap, _iLocError
+
 
 @pytest.fixture()
 def dict1():
